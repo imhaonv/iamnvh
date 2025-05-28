@@ -10,23 +10,30 @@ I'm a Data Engineer passionate about building data processing systems. Currently
 - **Programming Languages**: Python, JavaScript/TypeScript
 - **DevOps Tools**: Docker, Git
 - **Web Development**: Node.js, Express.js
+- **Web Crawling & Scraping**:
+  - **Frameworks**: Scrapy, Selenium, Puppeteer, Playwright, Bs4, Request, Splash
+  - **Parsing Tools**: BeautifulSoup4, lxml, XPath
+  - **Browser Automation**: Selenium WebDriver, Chrome DevTools Protocol
+  - **Anti-Detection**: Proxy Rotation, User-Agent Switching, Request Delays
+  - **Data Extraction**: HTML Parsing, API Integration, Dynamic Content Handling
 
 ## 🛠️ Featured Projects
-- **[Spark Standalone Cluster](https://github.com/iamnvh/Spark-Standalone-Cluster)**: Implementation of a standalone Spark cluster using Docker
-- **[Kafka Analysis](https://github.com/iamnvh/Kafka-Analysis)**: Data analysis system with Kafka
-- **[Financial News Analysis](https://github.com/iamnvh/Financial-News-Analysis)**: Pipeline for financial news analysis
-- **[Bat Gunner Game](https://github.com/iamnvh/Bat-Gunner)**: Game developed with TypeScript
-- **[Node Express App](https://github.com/iamnvh/Node-Express-App)**: Web application with Node.js and Express
+- **[Spark Standalone Cluster](https://github.com/iamnvh/spark_standalone_cluster)**: Implementation of a standalone Spark cluster using Docker
+- **[Kafka](https://github.com/iamnvh/kafka_system)**: Kafka tutorial.
+- **[Financial News Analysis](https://github.com/iamnvh/pipline_financial_news_btc)**: Pipeline for financial news analysis
+- **[Bat Gunner Game](https://github.com/iamnvh/bat-gunner)**: Game developed with TypeScript
 
 ## 📚 Currently Learning
-- Microservices Architecture
-- Cloud Native Technologies
-- Data Pipeline and Stream Processing
-- Machine Learning Engineering
+  - Building robust web crawlers using selenium, playwright, puppeteer, bs4, splash, requests, ... 
+  - Developing automated data extraction systems
+  - Implementing anti-detection mechanisms
+  - Creating scalable crawling infrastructures
+  - Working with proxy rotation and request handling
+  - Data cleaning and transformation pipelines
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnvh&show_icons=true&theme=radical)
 
 ## 🤝 Connect With Me
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [imhao.dev@gmail.com]
 - 💼 GitHub: [@iamnvh](https://github.com/iamnvh)
